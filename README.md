@@ -19,22 +19,33 @@
 
 ## My Projects
 <table align="center">
+ <table>
   <tr>
     <td>
-      <a href="https://github.com/sambhrama24/decrypt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sambhrama24&repo=decrypt&bg_color=23282E&text_color=9f9f9f" /></a>
+      <a href="https://github.com/sambhrama24/deCrypt">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sambhrama24&repo=deCrypt&bg_color=23282E&text_color=9f9f9f" />
+      </a>
     </td>
-      <td>
-      <a href="https://github.com/vinubhat10/Dynamic_Gesture"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vinubhat10&repo=Dynamic_Gesture&bg_color=23282E&text_color=9f9f9f" /></a>
-    </td>
-  </tr>
-    <tr>
     <td>
-      <a href="https://github.com/sambhrama24/Yotube-Transcript-Summarizer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sambhrama24&repo=Yotube-Transcript-Summarizer&bg_color=23282E&text_color=9f9f9f" /></a>
-    </td>
-      <td>
-      <a href="https://github.com/sambhrama24/todo-list"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sambhrama24&repo=todo-list&bg_color=23282E&text_color=9f9f9f" /></a>
+      <a href="https://github.com/vinubhat10/Dynamic_Gesture">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinubhat10&repo=Dynamic_Gesture&bg_color=23282E&text_color=9f9f9f" />
+      </a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/sambhrama24/Yotube-Transcript-Summarizer">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sambhrama24&repo=Yotube-Transcript-Summarizer&bg_color=23282E&text_color=9f9f9f" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/sambhrama24/todo-list">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sambhrama24&repo=todo-list&bg_color=23282E&text_color=9f9f9f" />
+      </a>
+    </td>
+  </tr>
+</table>
+
   
 </table>
 
