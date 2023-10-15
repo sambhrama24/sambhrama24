@@ -2,17 +2,19 @@
 ## Hello 👋, I'm Sambhrama!
 
 
-📚 Studied Computer Science at Dayananda Sagar College of Engineering, Bengaluru.
+💻 DataViz Intern at ASM Technologies
+📚 Studied Computer Science at Dayananda Sagar College of Engineering, Bengaluru
 
 ### Languages and Technologies
 - **Languages known:** C, Java, JavaScript, Python
-- **Working with:** MERN Stack, Deep Learning
+- **Working with:** ReactJS, Data Visualization
 - **I'm Studying:** DSA, Data Analytics
 - **Interested in:** Full Stack Development
 
 <div>
     <img src="https://img.shields.io/badge/Java-00599C?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-00599C?style=for-the-badge&logo=javascript&logoColor=white">
+    <img src="https://img.shields.io/badge/ReactJS-00599C?style=for-the-badge&logo=react&logoColor=white">
     <img src="https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=white">
 </div>
 &nbsp;
