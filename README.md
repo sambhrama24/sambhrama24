@@ -2,7 +2,7 @@
 ## Hello 👋, I'm Sambhrama!
 
 
-💻 DataViz Intern at ASM Technologies
+💻 DataViz Intern at ASM Technologies <br>
 📚 Studied Computer Science at Dayananda Sagar College of Engineering, Bengaluru
 
 ### Languages and Technologies
